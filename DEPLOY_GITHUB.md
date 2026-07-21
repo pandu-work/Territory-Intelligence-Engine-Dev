@@ -18,7 +18,7 @@
 ```bash
 git init
 git add .
-git commit -m "Initial territory-intelligence-engine-rc4-13-mpp-ladder-open-review static app"
+git commit -m "Initial territory-intelligence-engine-rc4-16-depot-filter-sync static app"
 git branch -M main
 git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
 git push -u origin main

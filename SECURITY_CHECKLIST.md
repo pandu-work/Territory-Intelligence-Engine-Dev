@@ -16,8 +16,8 @@ Use this before pushing to GitHub, especially before making the repo public.
 ## Automatic scan summary
 
 - Risk level: HIGH
-- Input file: Territory_Intelligence_Engine_RC4_13_MPP_LADDER_OPEN_REVIEW.html
-- Input size: 5.0 MB
+- Input file: Territory_Intelligence_Engine_RC4_16_DEPOT_FILTER_SYNC.html
+- Input size: 5.1 MB
 - fetch(): 0
 - XMLHttpRequest: 0
 - axios: 0
