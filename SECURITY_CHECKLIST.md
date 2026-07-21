@@ -16,8 +16,8 @@ Use this before pushing to GitHub, especially before making the repo public.
 ## Automatic scan summary
 
 - Risk level: HIGH
-- Input file: Territory_Intelligence_Engine_RC4_14_MANUAL_HOLD_SELECTION_POPUP.html
-- Input size: 5.1 MB
+- Input file: Territory_Intelligence_Engine_RC4_12_UI_STABLE.html
+- Input size: 5.0 MB
 - fetch(): 0
 - XMLHttpRequest: 0
 - axios: 0
