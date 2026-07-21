@@ -1,8 +1,8 @@
 {
-  "inputFile": "Territory_Intelligence_Engine_RC4_12_UI_STABLE.html",
-  "inputBytes": 5275212,
-  "inputSize": "5.0 MB",
-  "generatedAt": "2026-07-20T21:32:11.413Z",
+  "inputFile": "Territory_Intelligence_Engine_RC4_14_MANUAL_HOLD_SELECTION_POPUP.html",
+  "inputBytes": 5300781,
+  "inputSize": "5.1 MB",
+  "generatedAt": "2026-07-21T03:37:47.476Z",
   "riskLevel": "high",
   "score": 5,
   "hits": {
@@ -14,7 +14,7 @@
     "google": 0,
     "externalUrls": 50,
     "inlineBase64": 2,
-    "scriptTags": 46,
+    "scriptTags": 48,
     "styleTags": 40
   },
   "foundTerms": [
@@ -91,7 +91,7 @@
     "http://schemas.openxmlformats.org/officeDocument/2006/relationships/sheetMetadata"
   ],
   "hasLikelyEmbeddedData": true,
-  "project": "territory-intelligence-engine-rc4-12-ui-stable",
+  "project": "territory-intelligence-engine-rc4-14-manual-hold-selection-popup",
   "visibility": "private",
   "notes": ""
 }
