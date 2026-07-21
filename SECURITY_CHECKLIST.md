@@ -16,7 +16,7 @@ Use this before pushing to GitHub, especially before making the repo public.
 ## Automatic scan summary
 
 - Risk level: HIGH
-- Input file: Territory_Intelligence_Engine_RC4_17_UI_VERSION_BADGE.html
+- Input file: Territory_Intelligence_Engine_RC4_16_DEPOT_FILTER_SYNC.html
 - Input size: 5.1 MB
 - fetch(): 0
 - XMLHttpRequest: 0
