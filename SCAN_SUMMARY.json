@@ -1,8 +1,8 @@
 {
-  "inputFile": "Territory_Intelligence_Engine_RC4_16_DEPOT_FILTER_SYNC.html",
-  "inputBytes": 5318090,
+  "inputFile": "Territory_Intelligence_Engine_RC4_17_WEBVIEW_EXPORT_AUTHORITY.html",
+  "inputBytes": 5333942,
   "inputSize": "5.1 MB",
-  "generatedAt": "2026-07-21T11:41:05.232Z",
+  "generatedAt": "2026-07-22T04:02:11.414Z",
   "riskLevel": "high",
   "score": 5,
   "hits": {
@@ -14,8 +14,8 @@
     "google": 0,
     "externalUrls": 50,
     "inlineBase64": 2,
-    "scriptTags": 51,
-    "styleTags": 43
+    "scriptTags": 52,
+    "styleTags": 44
   },
   "foundTerms": [
     "NABATI",
@@ -91,7 +91,7 @@
     "http://schemas.openxmlformats.org/officeDocument/2006/relationships/sheetMetadata"
   ],
   "hasLikelyEmbeddedData": true,
-  "project": "territory-intelligence-engine-rc4-16-depot-filter-sync",
+  "project": "territory-intelligence-engine-rc4-17-webview-export-authority",
   "visibility": "private",
   "notes": ""
 }
